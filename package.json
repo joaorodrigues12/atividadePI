@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "@react-navigation/drawer": "^7.5.8"
+    "@expo/metro-runtime": "~6.1.2",
+    "@react-navigation/drawer": "^7.5.8",
+    "expo": "^54.0.10",
+    "react-dom": "19.1.0",
+    "react-native-web": "^0.21.0"
   }
 }
